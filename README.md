@@ -22,7 +22,7 @@ The dataset used for this analysis is available in the **`data.csv`** file. It c
 
 ## Deployed Application
 
-The project has been deployed as a web application using _Streamlit_. You can access the deployed application [here]([https://unemployment-analysis-shrudex.streamlit.app/](https://madhan-231105-unemployment-analysis-using-python-app-9ahxyh.streamlit.app/)).
+The project has been deployed as a web application using _Streamlit_. You can access the deployed application [here]([https://unemployment-analysis-shrudex.streamlit.app/](https://madhan-231105-unemployment-analysis-using-python-app-9ahxyh.streamlit.app/).
 
 ## Project Structure
 The project repository has the following structure:
